@@ -1,7 +1,7 @@
-- 👋 Hi, I’m AhmetEnes2021
+- 👋 Hi, I’m Ahmet Enes
 - 👀 I’m interested in C# and Game dev. ...
-- 🌱 I’m currently learning C#
-- 📫 How to reach me = AhmetEnesCakir@gmail.com
+- 🌱 I know C# and i'm still improveing myself.
+- 📫 How to reach me = AhmetEnesCakir2021@gmail.com
 
 <!---
 AhmetEnes2021/AhmetEnes2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
